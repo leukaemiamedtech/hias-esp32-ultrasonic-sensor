@@ -50,7 +50,6 @@ Once the server is verified, the BLE IoT Agent processes the sensor data, update
 To set up and install your HIAS ESP32 Ultrasonic Sensor follow the following guides.
 
 - [Installation guide](docs/installation/installation.md)
-- [Usage guide](docs/usage/esp32.md)
 
 &nbsp;
 
